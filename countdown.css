@@ -11,6 +11,10 @@
             background-color: #fff;
             border-radius: 5px;
         }
+#days,
+.time-wrap {
+    font-size: 25px;
+}
 
 #time {
             font-weight: bold;
@@ -18,3 +22,14 @@
             background-color: #fff;
             border-radius: 5px;
         }
+ @media screen and (max-width: 991px) {
+            #datetime {
+                margin-top: -10px !important;
+                margin-left: 30px;
+            }
+
+            #days,
+            .time-wrap {
+                font-size: 20px;
+            }
+ }
