@@ -1,0 +1,20 @@
+#datetime {
+            width: fit-content;
+            background-color: #ffd54f;
+            padding-left: 2%;
+            padding-right: 2%;
+            border-radius: 5px;
+        }
+
+#days {
+
+            background-color: #fff;
+            border-radius: 5px;
+        }
+
+#time {
+            font-weight: bold;
+            color: #ffd54f;
+            background-color: #fff;
+            border-radius: 5px;
+        }
